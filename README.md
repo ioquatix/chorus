@@ -4,6 +4,13 @@ Chorus is a procedural drawing tool for line art rasterisation and computer cont
 
 Loosely based on <http://mrdoob.com/projects/harmony/>.
 
+## Examples ##
+
+You can see an online example of this project at <http://www.lucidsystems.co.nz>. The vector graphics are extracted using [Mr Robot Paint][1]. If you want your own images vectorised please [contact me][2] for more details.
+
+[1]: http://www.oriontransfer.co.nz/research/mr-painting-robot/
+[2]: http://www.oriontransfer.co.nz/welcome/contact-us
+
 ## License ##
 
 Copyright (c) 2012 Samuel G. D. Williams. <http://www.oriontransfer.co.nz>
